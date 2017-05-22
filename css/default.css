@@ -35,13 +35,6 @@ header{
  overflow: auto;
 }
 
-#good_picture{
- width: 24px;
- position: absolute;
- left: 50px;
- top: 50px;
-}
-
 aside{
  background-color: #cceedd;
  width: 200px;
@@ -54,3 +47,11 @@ footer{
  background-color: skyblue;
  clear: both;
 }
+
+#good_picture{
+ width: 24px;
+ position: absolute;
+ left: 50px;
+ top: 50px;
+}
+
