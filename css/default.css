@@ -15,6 +15,7 @@ header{
  left: 0;
  top: 0;
  width: 100%;
+ z-index: +1;
 }
 
 #main{
@@ -32,6 +33,13 @@ header{
  margin: 5px;
  float: left;
  overflow: auto;
+}
+
+#good-pic{
+ width: 24px;
+ position: absolute;
+ left: 50px;
+ top: 50px;
 }
 
 aside{
