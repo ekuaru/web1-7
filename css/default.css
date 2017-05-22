@@ -11,6 +11,13 @@ body{
 header{
  background-color: magenta;
 }
+#main{
+ background-color: white;
+ width: calc(100% - 200px);
+ min-width: 500px;
+ float: left;
+}
+
 #main1{
  background-color: orange;
  width: 500px;
