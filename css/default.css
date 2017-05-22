@@ -7,10 +7,16 @@
 
 body{
  background-color: gray;
+ margin: 48px 0 0 0;
 }
 header{
  background-color: magenta;
+ position: fixed;
+ left: 0;
+ top: 0;
+ width: 100%;
 }
+
 #main{
  background-color: white;
  width: calc(100% - 200px);
@@ -25,6 +31,7 @@ header{
  height: 80px;
  margin: 5px;
  float: left;
+ overflow: auto;
 }
 
 aside{
