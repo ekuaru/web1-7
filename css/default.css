@@ -8,3 +8,15 @@
 body{
  background-color: gray;
 }
+header{
+ background-color: magenta;
+}
+#main1{
+ background-color: orange;
+}
+#main1{
+ background-color: yellow;
+}
+aside{
+ background-color: #eecc99;
+}
