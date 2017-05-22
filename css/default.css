@@ -10,7 +10,7 @@ body{
  margin: 48px 0 0 0;
 }
 header{
- background-color: magenta;
+ background-color: skyblue;
  position: fixed;
  left: 0;
  top: 0;
@@ -43,7 +43,7 @@ header{
 }
 
 aside{
- background-color: #114433;
+ background-color: #cceedd;
  width: 200px;
  float: right;
  position: relative;
